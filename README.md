@@ -57,7 +57,7 @@
 
 This project turns the **Global Power Plant Database** into an interactive analytics platform. It lets users explore global energy infrastructure on a rotatable 3D globe, drill into country-level generation mix, and predict plant capacity with a trained regression model.
 
-**Why it matters:** energy data is large, skewed, and geographically complex. Interactive visualization and predictive modeling make it accessible to analysts, researchers, and non-technical stakeholders alike.
+**Why it matters:** energy data is large, skewed, and geographically complex. Interactive visualization and predictive modeling make it accessible to analysts, researchers, and non-technical stakeholders alike
 
 ---
 
